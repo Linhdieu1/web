@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/Linhdieu1/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+[Image of Github] (https://i2.wp.com/www.phanxuanchanh.com/wp-content/uploads/2021/04/github.png?resize=678%2C381&ssl=1)
 ### Fun Facts
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,8 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://anonyviet.com/cach-tao-website-bang-github-trong-15-phut/) and ![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--i_sb3chq--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_900%2Cq_auto%2Cw_1600%2Fhttps%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Ffk0849hvg2rt13bpqhjy.jpg&imgrefurl=http%3A%2F%2Fwww.devopstechhub.com%2F2020%2F09%2Fgithub-action-la-gi-lam-quen-voi-github.html&tbnid=bgKiPn6UOsCJaM&vet=12ahUKEwiUq5eB2_vyAhVhNaYKHWc4DCkQMygAegUIARC4AQ..i&docid=SpUULjnvGgl8XM&w=1600&h=900&q=git%20hub&ved=2ahUKEwiUq5eB2_vyAhVhNaYKHWc4DCkQMygAegUIARC4AQ
-```
+[Link](https://anonyviet.com/cach-tao-website-bang-github-trong-15-phut/) and ![Image](https://anonyviet.com/wp-content/uploads/2020/07/102.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
